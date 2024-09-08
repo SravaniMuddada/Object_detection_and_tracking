@@ -31,19 +31,13 @@ This repository implements object detection and tracking using OpenCV. It provid
    cd Object_detection_and_tracking
    ```
 
-3. Install the required dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
 ## Usage
 
 ### Running the Object Detector and Tracker
 
 1. Place your input video in the project directory. A sample video (`input_video_1.mp4`) is included.
-2. Run the `` script to start the object detection and tracking process:
+2. Run the `Object detection and Tracking.ipynb` script to start the object detection and tracking process:
 
    ```bash
-   python run.py
+   python Object detection and Tracking.ipynb
    ```
