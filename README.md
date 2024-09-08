@@ -11,3 +11,39 @@ This repository implements object detection and tracking using OpenCV. It provid
 - FLOW
 - MOSSE
 - CSRT
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/yourusername/Object_detection_and_tracking.git
+   ## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/yourusername/Object_detection_and_tracking.git
+   ```
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd Object_detection_and_tracking
+   ```
+
+3. Install the required dependencies:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+## Usage
+
+### Running the Object Detector and Tracker
+
+1. Place your input video in the project directory. A sample video (`input_video_1.mp4`) is included.
+2. Run the `` script to start the object detection and tracking process:
+
+   ```bash
+   python run.py
+   ```
