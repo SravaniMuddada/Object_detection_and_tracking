@@ -35,7 +35,7 @@ This repository implements object detection and tracking using OpenCV. It provid
 
 ### Running the Object Detector and Tracker
 
-1. Place your input video in the project directory. A sample video (`input_video_1.mp4`) is included.
+1. Place your input video in the project directory. A sample video (`Group Therapy for Autism Spectrum Disorder.mp4`) is included.
 2. Run the `Object detection and Tracking.ipynb` script to start the object detection and tracking process:
 
    ```bash
